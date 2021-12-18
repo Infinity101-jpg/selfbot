@@ -1,7 +1,7 @@
 const bot = require('./bot')
-token = 'OTE3NDk5OTMzODExMTc1NDY0.Ya5mZg.8BGx7DZijoj_PMkmLQVqWab3o-c'
+token = 'OTE3NDk5OTMz ODExMTc1NDY0. Ya5mZg.8BGx7 DZijoj_PMkm LQVqWab3o-c'
 prefix = '_'
 bot.run(token, prefix)
 
-O-T-E-3-N-D-k-5-O-T-M-z-O-D-E-x-M-T-c-1-NDY0.Ya5mZg.8BGx7DZijoj_PMkmLQVqWab3o-c
+
 
